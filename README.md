@@ -3,12 +3,19 @@
 ```
 node -v
 npm -v
+```
 
-
+```
 npm init -y
 npm i --save-dev electron
 
 
+npm start
+```
+
+```
+npx @electron-forge/cli import
+npm run make
 ```
 
 
